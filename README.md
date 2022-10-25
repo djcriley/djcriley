@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me via linked in:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cooperriley/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://imgs.search.brave.com/zQQkx0-P01NFPt1NMjTKAGdHgbeSYH9KRrpafQlzcu0/rs:fit:1200:636:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvbGlu/a2VkaW4tbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n)" alt="https://www.linkedin.com/in/cooperriley/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/cooperriley/" target="blank"><img align="center" src="https://github.com/djcriley/djcriley/blob/main/images/Linkedin-logo-on-transparent-Background-PNG--600x600.png" alt="https://www.linkedin.com/in/cooperriley/" height="40" width="40" /></a>
 </p>
 
 ## Languages and Tools:
