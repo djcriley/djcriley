@@ -1,11 +1,17 @@
 <h3 align="center">Honors, Master's Computer Science Graduate and Former D1 Soccer Player</h3>
 <h4 align="center">Rated by classmates and teammates as reliable, disciplined, and determined</h4>
 
-- 👨‍💻 All of my projects are available at [https://github.com/djcriley/djcriley](https://github.com/djcriley/djcriley)
+## Key Projects:
+- https://github.com/djcriley/small-language-interpreter
+- https://github.com/djcriley/image-processing
+- https://github.com/djcriley/java-rpg
+- https://github.com/djcriley/facial-recognition-app
 
-- 📫 How to reach me **c_riley9@u.pacific.edu**
 
-<h3 align="left">Connect with me via linked in:</h3>
+## Contact Me
+- c_riley9@u.pacific.edu
+- 214-449-2188
+- linked in:
 <p align="left">
 <a href="https://www.linkedin.com/in/cooperriley/" target="blank"><img align="center" src="https://github.com/djcriley/djcriley/blob/main/images/Linkedin-logo-on-transparent-Background-PNG--600x600.png" alt="https://www.linkedin.com/in/cooperriley/" height="40" width="40" /></a>
 </p>
