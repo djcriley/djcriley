@@ -11,7 +11,7 @@
 ## Contact Me
 - c_riley9@u.pacific.edu
 - 214-449-2188
-- linked in:
+- LinkedIn:
 <p align="left">
 <a href="https://www.linkedin.com/in/cooperriley/" target="blank"><img align="center" src="https://github.com/djcriley/djcriley/blob/main/images/Linkedin-logo-on-transparent-Background-PNG--600x600.png" alt="https://www.linkedin.com/in/cooperriley/" height="40" width="40" /></a>
 </p>
